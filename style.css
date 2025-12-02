@@ -40,3 +40,15 @@
             font-size: 1rem;
             color: #333;
         }
+
+
+.result {
+	 font-size: 1rem;
+	color: (102, 102, 102);
+}
+
+.sentence {
+	 font-size: 13px;
+	color: （102, 102, 102);
+	text-align: left;
+}
